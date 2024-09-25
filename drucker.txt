@@ -11,8 +11,8 @@ What do i value?
 	
 What contribution can be expected from me on this project?
 	I will make sure the project gets done as miss supervisor/lead art director
-	Aidan Boisvert Drucker Exercise
 
+Aidan Boisvert Drucker Exercise
 What am I good at?
 I am good at working hard.
 
@@ -24,6 +24,7 @@ I value hard work, quality code, and functioning software.
 
 What contribution can be expected from me on this project?
 You can expect a large amount of software development, and application of effort on this project.
+
 Evan Drucker Exercise
 What am I good at?
     I am good at solving problems that I haven't encountered before.
